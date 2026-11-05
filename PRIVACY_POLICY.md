@@ -1,6 +1,6 @@
 # Privacy Policy – Intruder Selfie
 
-_Last updated: 2026-10-07_
+_Last updated: 2026-11-05_
 
 **Summary:** Intruder Selfie keeps everything on your phone. We don't collect, upload, sell or share any data.
 
@@ -20,7 +20,7 @@ None. The app has no accounts, analytics, advertising or network access, and not
 Use the app only on a device you own. Laws about photographing people vary by country; you are responsible for using the app lawfully.
 
 ## Children
-The app is not directed to children under 13.
+The app is intended for people aged 18 and over. It is not directed to children, and we do not knowingly collect data from anyone under 18 (the app collects no data at all).
 
 ## Contact
 Questions: emailjessicahartman1@gmail.com

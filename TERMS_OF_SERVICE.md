@@ -7,8 +7,8 @@ By installing or using Intruder Selfie ("the app"), you agree to these terms. If
 ## 1. What the app does
 When someone enters an incorrect PIN, password or pattern on your phone's lock screen, the app takes one photo with the front camera and stores it privately on your device. You can view the photos after unlocking the app with your fingerprint, face or phone PIN.
 
-## 2. Use only on your own device
-You may use the app only on a device you own or are authorized to manage. Do not use it to photograph, monitor or track another person without their knowledge where that is unlawful. Laws about photographing people and recording unlock attempts differ by country and region, and you are responsible for using the app lawfully.
+## 2. Age and use on your own device
+You must be at least 18 years old to use the app. It is not intended for children. You may use the app only on a device you own or are authorized to manage. Do not use it to photograph, monitor or track another person without their knowledge where that is unlawful. Laws about photographing people and recording unlock attempts differ by country and region, and you are responsible for using the app lawfully.
 
 ## 3. Your photos
 - Photos are stored only in the app's private storage on your device.
